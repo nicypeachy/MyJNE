@@ -1,0 +1,49 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tv_success_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Yeayy, paket kamu sudah berhasil kami pickup!"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:padding="16dp"/>
+
+    <!-- Image of phone with check mark -->
+
+
+    <!-- Illustration of person -->
+    <ImageView
+        android:id="@+id/iv_person_illustration"
+        android:layout_width="295dp"
+        android:layout_height="500dp"
+        android:layout_below="@id/tv_success_message"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_person_illustration"
+        />
+
+    <!-- Button to return to home -->
+    <Button
+        android:id="@+id/btn_return_home"
+        android:layout_width="match_parent"
+        android:layout_marginStart="32dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/red"
+        android:text="Back to Home"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+</RelativeLayout>

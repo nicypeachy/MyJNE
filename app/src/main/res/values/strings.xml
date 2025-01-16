@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="lokasi_array">
+        <item>Pilih Lokasi</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Yogyakarta</item>
+        <item>Medan</item>
+    </string-array>
+    <string name="app_name">MyJNE</string>
+    <string name="validation_message">Harap isi semua data dengan benar.</string>
+    <string name="order_success_message">Order berhasil dibuat.</string>
+    <string name="order_failed_message">Gagal membuat order. Coba lagi.</string>
+</resources>

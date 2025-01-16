@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imglogo"
+        android:layout_width="192dp"
+        android:layout_height="113dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/logomyjne" />
+
+    <ImageView
+        android:id="@+id/imganimasi"
+        android:layout_width="248dp"
+        android:layout_height="336dp"
+        android:layout_below="@+id/imglogo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/animasimyjne" />
+
+    <TextView
+        android:id="@+id/textkirimanaman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsbold"
+        android:text="Kiriman Aman,"
+        android:textColor="@color/navy"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imganimasi"
+        android:textSize="24dp" />
+
+    <TextView
+        android:id="@+id/texthatitenang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsbold"
+        android:text="Hati Tenang"
+        android:textColor="@color/navy"
+        android:layout_marginTop="-8dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textkirimanaman"
+        android:textSize="24dp" />
+
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="Registrasi"
+        android:layout_below="@id/texthatitenang"
+        android:textColor="@color/white"
+        android:background="@drawable/button_shape"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:fontFamily="@font/poppinsregular"
+        android:id="@+id/sbmtregister"/>
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsregular"
+        android:text="Sudah punya akun? Login"
+        android:textColor="@color/navy"
+        android:layout_marginTop="8dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/sbmtregister"
+        android:textSize="16sp" />
+
+</RelativeLayout>

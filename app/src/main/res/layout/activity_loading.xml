@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/loading"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoadingActivity"
+    android:background="@android:color/white"
+    android:paddingTop="24dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="24dp">
+
+    <TextView
+        android:id="@+id/tv_title_loading"
+        android:layout_width="320dp"
+        android:layout_height="32dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:fontFamily="@font/poppinsbold"
+        android:text="Sedang mencari kurir ..."
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="271dp"
+        android:layout_height="574dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tv_title_loading"
+        android:src="@drawable/ic_loading" />
+    
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:fontFamily="@font/poppinsregular"
+        android:background="@drawable/button_shape"
+        android:text="Cancel"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
