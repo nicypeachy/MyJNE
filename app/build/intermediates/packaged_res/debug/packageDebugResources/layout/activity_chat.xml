@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imglogo"
+        android:layout_width="137dp"
+        android:layout_height="56dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logomyjne" />
+    <!-- Header Bar -->
+    <LinearLayout
+        android:id="@+id/headerBar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_below="@+id/imglogo"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/backButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="16dp"
+            android:src="@drawable/ic_back"
+            android:contentDescription="Back Button" />
+
+        <TextView
+            android:id="@+id/chatTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="20dp"
+            android:text="Andrew"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Chat Content -->
+    <ScrollView
+        android:id="@+id/chatContent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@id/headerBar"
+        android:layout_above="@id/messageInputBar">
+
+        <LinearLayout
+            android:id="@+id/chatContentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+        <!-- Contoh Bubble Chat -->
+        <LinearLayout
+            android:layout_width="290dp"
+            android:layout_height="49dp"
+            android:background="@drawable/chat_bubble"
+            android:padding="12dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hallo kak, apakah titiknya sesuai?"
+                android:textSize="14sp"
+                android:textColor="#000000"
+                android:layout_marginStart="16dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+
+
+    <!-- Input Bar -->
+    <LinearLayout
+        android:id="@+id/messageInputBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:padding="8dp"
+        android:gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/messageInput"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="3"
+            android:hint="Masukkan pesan"
+            android:background="@drawable/edittext_background"
+            android:padding="10dp"
+            android:textSize="14sp"
+            android:imeOptions="actionSend" />
+
+        <Button
+            android:id="@+id/sendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Send"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_shape"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="8dp" />
+    </LinearLayout>
+
+</RelativeLayout>

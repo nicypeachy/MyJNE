@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lokasi_array">
+        <item>Pilih Lokasi</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Yogyakarta</item>
+        <item>Medan</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="gray">#E3E5E5</color>
+    <color name="navy">#1C2359</color>
+    <color name="red">#E01E26</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyJNE</string>
+    <string name="order_failed_message">Gagal membuat order. Coba lagi.</string>
+    <string name="order_success_message">Order berhasil dibuat.</string>
+    <string name="validation_message">Harap isi semua data dengan benar.</string>
+    <style name="Base.Theme.MyJNE" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyJNE" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/navy</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="fontFamily">@font/poppinsregular</item>
+        <item name="android:textSize">12sp</item> 
+        <item name="android:textColor">@color/black</item> 
+    </style>
+</resources>

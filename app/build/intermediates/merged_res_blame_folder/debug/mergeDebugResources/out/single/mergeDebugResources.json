@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_bg_edittext.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\bg_edittext.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_ordercreated.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_ordercreated.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\color_bottom_nav_color_selector.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\color\\bottom_nav_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_map_placeholder.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_map_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_orderpickedup.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_orderpickedup.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_animasimyjne.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\animasimyjne.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_save.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_chat.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_back.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_chat_bubble.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\chat_bubble.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_bg_chatsend.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\bg_chatsend.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_background_sendchat.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\background_sendchat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_pickedup.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_pickedup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_bg_kodeotp.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\bg_kodeotp.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_kurir_avatar.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_kurir_avatar.png"
+    },
+    {
+        "merged": "com.example.myjne.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.myjne.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_loading.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_flag.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\font_poppinssemibold.ttf.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\font\\poppinssemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_cekongkir.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_cekongkir.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\font_poppinsregular.ttf.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\font\\poppinsregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\font_poppinsextra.ttf.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\font\\poppinsextra.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_kodeotp.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_kodeotp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_formregister.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_formregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_bg_searchbar.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\bg_searchbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_dropdown.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_dropdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_formpickup.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_formpickup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_loyality.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_loyality.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_edittext_background.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\edittext_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_button_shape_background.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\button_shape_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_pickup.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_person_illustration.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_person_illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_logomyjne.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\logomyjne.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_driverassigned.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_driverassigned.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_dropoff.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_dropoff.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_ic_findingdriver.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\ic_findingdriver.png"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\layout_activity_beranda.xml.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\layout\\activity_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-debug-31:\\drawable_bannerjne.png.flat",
+        "source": "C:\\Users\\Karimah\\.gradle\\daemon\\8.9\\com.example.myjne.app-main-33:\\drawable\\bannerjne.png"
+    }
+]
